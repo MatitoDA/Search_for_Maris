@@ -9,8 +9,40 @@ searchInput.addEventListener("input", e => {
     items.forEach(item => {
         const isVisible = item.name.toLowerCase().includes(value) || item.ename.toLowerCase().includes(value)
         item.element.classList.toggle("hide", !isVisible)
+        console.log(isVisible)
     });
 })
+
+function update(){
+    var id = document.getElementById("filter").value;
+    console.log(x);
+    if (id === "1") {
+        console.log("mod1")
+        items.forEach(item => {
+            const isVisible = item.mod.includes()
+            item.element.classList.toggle("hide", !isVisible)
+        });
+    } else {
+        if (id === "2"){
+            console.log("mod2")
+            element.classList.toggle("hide")
+        } else {
+            if (id === "3"){
+                console.log("mod3")
+                element.classList.toggle("hide")
+            } else {
+                if (id === "0") {
+                    console.log("keine mod")
+                    element.classList.toggle("hide")
+                } else {
+                    console.log("error")
+                }
+            }
+        }
+    }
+}
+
+
 
 
 fetch("items.json")
@@ -20,11 +52,13 @@ fetch("items.json")
     const card = itemCardTemplate.content.cloneNode(true).children[0]
     const header = card.querySelector("[data-header]")
     const body = card.querySelector("[data-body]")
-    const pic = card.querySelector("[data-pic]")
-    pic.textContent = item.pic
+    const mod = card.querySelector("[data-mod]")
+/*     const pic = card.querySelector("[data-pic]")
+    pic.textContent = item.pic */
     header.textContent = item.name
     body.textContent = item.ename
+    mod.textContent = item.mod
     itemCardContainer.append(card)
-    return{ name: item.name, ename: item.ename, element: card }
+    return{ name: item.name, ename: item.ename, mod: item.mod, element: card }
     })
 })

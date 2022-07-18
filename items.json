@@ -3,36 +3,42 @@
         "id": 1,
         "name": "Blauer Rucksack",
         "ename": "Blue Backpack",
-        "pic": "img/Beispiel1.png"
+        "pic": "img/Beispiel1.png",
+        "mod": "mod1"
     },
     {
         "id": 2,
         "name": "Brauner Rucksack",
         "ename": "Brown Backpack",
-        "pic": "img/Beispiel2.png"
+        "pic": "img/Beispiel2.png",
+        "mod": "mod1"
     },
     {
         "id": 3,
         "name": "Cyan Rucksack",
         "ename": "Cyan Backpack",
-        "pic": "img/Beispiel3.png"
+        "pic": "img/Beispiel3.png",
+        "mod": "mod3"
     },
     {
         "id": 4,
         "name": "Ender Rucksack",
         "ename": "Ender Backpack",
-        "pic": "img/Beispiel4.png"
+        "pic": "img/Beispiel4.png",
+        "mod": "mod3"
     },
     {
         "id": 5,
         "name": "Grüner Rucksack",
         "ename": "Green Backpack",
-        "pic": "img/Beispiel4.png"
+        "pic": "img/Beispiel4.png",
+        "mod": "mod2"
     },
     {
         "id": 6,
         "name": "Item Name",
-        "ename": "Ttem Englischer Name",
-        "pic": "img/Bild.png"
+        "ename": "item Englischer Name",
+        "pic": "img/Bild.png",
+        "mod": "mod"
     }
 ]
