@@ -1,0 +1,26 @@
+<!-- basis by https://youtu.be/TlP5WIxVirU -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <script src="script.js" defer></script>
+    <title>Testfile</title>
+</head>
+<body>
+    <div class="search-wrapper">
+        <label for="search">Crafting Suchen</label>
+        <input type="search" id="search" data-search>
+    </div>
+    <div class="item-cards" data-item-container></div>
+    <template data-item-template >
+            <div class="card">
+                <div class="header" data-header></div>
+                <div class="body" data-body></div>
+                <div class="pic" > <img src="pic" alt="" data-pic></div>
+            </div>
+    </template>
+</body>
+</html>
