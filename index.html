@@ -1,6 +1,5 @@
-<!-- basis by https://youtu.be/TlP5WIxVirU -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,14 +11,19 @@
 <body>
     <div class="search-wrapper">
         <label for="search">Crafting Suchen</label>
-        <input type="search" id="search" data-search>#
+        <input type="search" id="search" placeholder="Suche" data-search>
     </div>
     <div>
         <select onchange="update()" id="filter">
-            <option value="0">alle mods</option>
-            <option value="1">mod1</option>
-            <option value="2">mod2</option>
-            <option value="3">mod3</option>
+            <option value="0">Alle Mods</option>
+            <option value="1">Backpack</option>
+            <option value="2">Chisel</option>
+            <option value="3">CustomNPC</option>
+            <option value="4">Decocraft</option>
+            <option value="5">Floocraft</option>
+            <option value="6">HPU-DAEdition</option>
+            <option value="7">MineChess</option>
+            <option value="8">PlantMegaMod</option>
         </select>
     </div>
     <div class="item-cards" data-item-container></div>
@@ -28,6 +32,7 @@
                 <div class="header" data-header></div>
                 <div class="body" data-body></div>
                 <div class="mod" data-mod></div>
+                <div class="pic" data-pic> <img id="rezept"></div>
             </div>
     </template>
 </body>
