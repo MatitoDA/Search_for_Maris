@@ -4,41 +4,55 @@
         "name": "Blauer Rucksack",
         "ename": "Blue Backpack",
         "pic": "img/Beispiel1.png",
-        "mod": "mod1"
+        "mod": "Backpack"
     },
     {
         "id": 2,
         "name": "Brauner Rucksack",
         "ename": "Brown Backpack",
         "pic": "img/Beispiel2.png",
-        "mod": "mod1"
+        "mod": "Chisel"
     },
     {
         "id": 3,
         "name": "Cyan Rucksack",
         "ename": "Cyan Backpack",
         "pic": "img/Beispiel3.png",
-        "mod": "mod3"
+        "mod": "CustomNPC"
     },
     {
         "id": 4,
         "name": "Ender Rucksack",
         "ename": "Ender Backpack",
         "pic": "img/Beispiel4.png",
-        "mod": "mod3"
+        "mod": "Decocraft"
     },
     {
         "id": 5,
         "name": "Grüner Rucksack",
         "ename": "Green Backpack",
-        "pic": "img/Beispiel4.png",
-        "mod": "mod2"
+        "pic": "img/Beispiel6.png",
+        "mod": "Floocraft"
     },
     {
         "id": 6,
         "name": "Item Name",
         "ename": "item Englischer Name",
-        "pic": "img/Bild.png",
-        "mod": "mod"
+        "pic": "img/Bild3.png",
+        "mod": "HPU-DAEdition"
+    },
+    {
+        "id": 6,
+        "name": "Item Name",
+        "ename": "item Englischer Name",
+        "pic": "img/Bild2.png",
+        "mod": "MineChess"
+    },
+    {
+        "id": 6,
+        "name": "Item Name",
+        "ename": "item Englischer Name",
+        "pic": "img/Bild1.png",
+        "mod": "PlantMegaMod"
     }
 ]
