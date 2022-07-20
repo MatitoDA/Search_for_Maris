@@ -1,3 +1,7 @@
+:root {
+    background-color: black; /* Weil Darkmode besser ist xd */
+}
+
 .search-wrapper {
     display: flex;
     flex-direction: column;
