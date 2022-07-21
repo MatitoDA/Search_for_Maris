@@ -39,7 +39,7 @@ searchInput.addEventListener("input", e => {
 
 
 
-function update() {
+/* function update() {
     var select = document.getElementById('filter');
     var option = select.options[select.selectedIndex];
     var text = option.text
@@ -49,29 +49,29 @@ function update() {
         
     } else {
         if (option.value === "1") {
-            /*  */
+            
             search()
         } else {
             if (option.value === "2") {
-                /*  */
+                search()
             } else {
                 if (option.value === "3") {
-                    /*  */
+                    search()
                 }  else {
                     if (option.value === "4") {
-                        /*  */
+                        search()
                     }  else {
                         if (option.value === "5") {
-                            /*  */
+                            search()
                         }  else {
                             if (option.value === "6") {
-                                /*  */
+                                search()
                             }  else {
                                 if (option.value === "7") {
-                                    /*  */
+                                    search()
                                 }  else {
                                     if (option.value === "8") {
-                                        /*  */
+                                        search()
                                     }
                                 }
                             }
@@ -82,7 +82,7 @@ function update() {
         }
     }
 }
-update();
+update(); */
 
 fetch("items.json")
 .then(res => res.json())
@@ -92,19 +92,13 @@ fetch("items.json")
     const header = card.querySelector("[data-header]")
     const body = card.querySelector("[data-body]")
     const mod = card.querySelector("[data-mod]")
-    const pic = card.querySelector("[data-pic]")
-    pic.textContent = item.pic
-    var piclink = item.pic
-    /* document.getElementById("rezept").src=item.pic; */
     header.textContent = item.name
     body.textContent = item.ename
     mod.textContent = item.mod
     itemCardContainer.append(card)
-    return{ name: item.name, ename: item.ename, mod: item.mod, pic: item.pic, element: card, piclink }
+    return{ name: item.name, ename: item.ename, mod: item.mod, element: card }
     })
 })
-
-console.log(piclink)
 
 
 
@@ -119,4 +113,16 @@ function search() {
         item.element.classList.toggle("hide", !isVisible)
         console.log(isVisible)
     });
+}
+
+imgLoad()
+function imgLoad() {
+    fetch("items.json")
+    .then(results => results.json())
+    .then(console.log)
+    .then(data => {
+        items = data.map(item => {
+        getElementById("crafting").src = src
+        })
+    })
 }
