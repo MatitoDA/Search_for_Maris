@@ -92,9 +92,11 @@ fetch("items.json")
     const header = card.querySelector("[data-header]")
     const body = card.querySelector("[data-body]")
     const mod = card.querySelector("[data-mod]")
+    const imgSource = card.querySelector("[data-src]");
     header.textContent = item.name
     body.textContent = item.ename
     mod.textContent = item.mod
+    imgSource.src = item.pic;
     itemCardContainer.append(card)
     return{ name: item.name, ename: item.ename, mod: item.mod, element: card }
     })
@@ -113,16 +115,4 @@ function search() {
         item.element.classList.toggle("hide", !isVisible)
         console.log(isVisible)
     });
-}
-
-imgLoad()
-function imgLoad() {
-    fetch("items.json")
-    .then(results => results.json())
-    .then(console.log)
-    .then(data => {
-        items = data.map(item => {
-        getElementById("crafting").src = src
-        })
-    })
 }
