@@ -26,18 +26,20 @@ const searchInput = document.querySelector("[data-search]")
 
 let items = []
 
-searchInput.addEventListener("input", e => {
-    const value = e.target.value.toLowerCase()
+
+searchInput.addEventListener("input", e => { 
+    const value = e.target.value.toLowerCase() /* Suchleiste input */
     items.forEach(item => {
-        const isVisible = item.name.toLowerCase().includes(value) || 
+        const isVisible = 
+        item.name.toLowerCase().includes(value) || 
         item.ename.toLowerCase().includes(value) || 
-        item.mod.toLowerCase().includes(value)
-        item.element.classList.toggle("hide", !isVisible)
+        item.mod.toLowerCase().includes(value) 
+        item.element.classList.toggle("hide", !isVisible) /* setze Classe "hide" für alle die nicht mit dem Input matchen */
     })
 })
 
-
-function update() {
+/* filer */
+function update() { 
     var select = document.getElementById('filter');
     var option = select.options[select.selectedIndex];
     if (option.value === "all") {
@@ -52,28 +54,28 @@ function update() {
 
 function search(value) {
     items.forEach(item => {
-        const isVisible = item.name.toLowerCase().includes(value) || 
+        const isVisible = item.name.toLowerCase().includes(value) || /* check welche items zu der ausgewählten Mod gehören */
         item.ename.toLowerCase().includes(value) || 
         item.mod.toLowerCase().includes(value)
-        item.element.classList.toggle("hidemod", !isVisible)
+        item.element.classList.toggle("hidemod", !isVisible) /* setze Classe "hide" für alle die nicht mit der mod matchen */
     });
 }
 
 
-fetch("items.json")
+fetch("items.json") /* import items.json */
 .then(res => res.json())
 .then(data => {
     items = data.map(item => {
     const card = itemCardTemplate.content.cloneNode(true).children[0]
-    const header = card.querySelector("[data-header]")
+    const header = card.querySelector("[data-header]") /* setzte inhlat für classen */
     const body = card.querySelector("[data-body]")
     const mod = card.querySelector("[data-mod]")
-    const imgSource = card.querySelector("[data-src]");
+    const img = card.querySelector("[data-img]"); 
     header.textContent = item.name
     body.textContent = item.ename
     mod.textContent = item.mod
-    imgSource.src = item.pic;
+    img.img = item.pic;
     itemCardContainer.append(card)
-    return{ name: item.name, ename: item.ename, mod: item.mod, element: card }
+    return{ name: item.name, ename: item.ename, mod: item.mod, element: card } /* get inhlat der erstellten Divs */
     })
 })

@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="stylesheet.css">
-    <script type="text/javascript" src="script.js" defer></script>
+    <link rel="stylesheet" type="text/css" href="search.css"> <!-- Stylesheet Searchengine -->
+    <script type="text/javascript" src="search.js" defer></script> <!-- Searchengine Code -->
     <title>Testfile</title>
 </head>
 <body>
-    <div class="search-wrapper">
+    
+    <div class="search-wrapper"><!-- Suchleiste -->
         <label for="search">Crafting Suchen</label>
         <input type="search" id="search" placeholder="Suche" data-search>
     </div>
-    <div>
+    
+    <div><!-- Filter Dropdown -->
         <select onchange="update()" id="filter">
             <option value="all">Alle Mods</option>
             <option value="bp">Backpack</option>
@@ -26,13 +28,15 @@
             <option value="pm">PlantMegaMod</option>
         </select>
     </div>
-    <div class="item-cards" data-item-container></div>
-    <template data-item-template >
-            <div class="card">
-                <div class="header" data-header></div>
-                <div class="body" data-body></div>
-                <div class="mod" data-mod></div>
-                <div class="img"><img data-src width="50" height="50"></div>
+    
+
+    <div class="item-cards" data-item-container></div><!-- in diesem Div befinden sich alle Karten mit den Mods aus der items.json -->
+    <template data-item-template ><!-- template muss nich vormatiert werden -->
+            <div class="card"><!-- box mit Item infos -->
+                <div class="header" data-header></div> <!-- Item Title -->
+                <div class="body" data-body></div> <!-- Englischer Name -->
+                <div class="mod" data-mod></div> <!-- zu welcher Mod das Item gehört -->
+                <div class="img"><img data-img width="50" height="50"></div> <!-- Retzept -->
             </div>
     </template>
 </body>

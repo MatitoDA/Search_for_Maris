@@ -1,0 +1,41 @@
+.search-wrapper {
+    display: flex; /* kannst du ändern aber so lassen ist schöner */
+    flex-direction: column;  /* kannst du ändern aber so lassen ist schöner */
+    gap: .28rem; /* zwischen raum "Crafting suche" und Suche input */
+}
+
+input {
+    font-size: 1rem; /* größe Suchleiste input */
+}
+
+.item-cards {
+    display: grid; /* so lassen */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* so lassen */
+    gap: .25rem; /* zwischen raum zwischen den Karten */
+    margin-top: 1rem; /* abstand zur Suchleiste/Dropdown */
+}
+
+.card { /* Formatierung der Karten */
+    border: 1px solid black;
+    background-color: gray;
+    padding: .5rem;
+}
+
+.card > .header {/* Mod item name */
+    margin-bottom: .25rem; 
+}
+
+.card > .body {/* Mod item englischer Name */
+    font-size: .8rem;
+    color: white;
+}
+
+
+
+.hide { 
+    display: none; /* so lassen */
+}
+
+.hidemod {
+    display: none; /* so lassen */
+}
