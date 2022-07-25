@@ -24,7 +24,7 @@ const itemCardTemplate = document.querySelector("[data-item-template]")
 const itemCardContainer = document.querySelector("[data-item-container]")
 const searchInput = document.querySelector("[data-search]")
 
-
+let items = []
 
 searchInput.addEventListener("input", e => {
     const value = e.target.value.toLowerCase()
@@ -33,56 +33,32 @@ searchInput.addEventListener("input", e => {
         item.ename.toLowerCase().includes(value) || 
         item.mod.toLowerCase().includes(value)
         item.element.classList.toggle("hide", !isVisible)
-        console.log(isVisible)
-    });
+    })
 })
 
 
-
-/* function update() {
+function update() {
     var select = document.getElementById('filter');
     var option = select.options[select.selectedIndex];
-    var text = option.text
-    document.getElementById('search').value = text;
-    if (option.value === "0") {
-        document.getElementById('search').value = "";
-        
+    if (option.value === "all") {
+        const text = ""
+        search(text);
     } else {
-        if (option.value === "1") {
-            
-            search()
-        } else {
-            if (option.value === "2") {
-                search()
-            } else {
-                if (option.value === "3") {
-                    search()
-                }  else {
-                    if (option.value === "4") {
-                        search()
-                    }  else {
-                        if (option.value === "5") {
-                            search()
-                        }  else {
-                            if (option.value === "6") {
-                                search()
-                            }  else {
-                                if (option.value === "7") {
-                                    search()
-                                }  else {
-                                    if (option.value === "8") {
-                                        search()
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-        }
+        const text = option.text.toLowerCase()
+        search(text);
     }
+
 }
-update(); */
+
+function search(value) {
+    items.forEach(item => {
+        const isVisible = item.name.toLowerCase().includes(value) || 
+        item.ename.toLowerCase().includes(value) || 
+        item.mod.toLowerCase().includes(value)
+        item.element.classList.toggle("hide", !isVisible)
+    });
+}
+
 
 fetch("items.json")
 .then(res => res.json())
@@ -101,18 +77,3 @@ fetch("items.json")
     return{ name: item.name, ename: item.ename, mod: item.mod, element: card }
     })
 })
-
-
-
-function search() {
-    var select = document.getElementById('filter');
-    var option = select.options[select.selectedIndex];
-    var text = option.text
-    items.forEach(item => {
-        const isVisible = item.name.toLowerCase().includes(text) || 
-        item.ename.toLowerCase().includes(text) || 
-        item.mod.toLowerCase().includes(text)
-        item.element.classList.toggle("hide", !isVisible)
-        console.log(isVisible)
-    });
-}
