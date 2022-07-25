@@ -55,7 +55,7 @@ function search(value) {
         const isVisible = item.name.toLowerCase().includes(value) || 
         item.ename.toLowerCase().includes(value) || 
         item.mod.toLowerCase().includes(value)
-        item.element.classList.toggle("hide", !isVisible)
+        item.element.classList.toggle("hidemod", !isVisible)
     });
 }
 
