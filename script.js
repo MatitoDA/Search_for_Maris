@@ -117,12 +117,18 @@ function search() {
 
 imgLoad()
 function imgLoad() {
-    fetch("items.json")
-    .then(results => results.json())
-    .then(console.log)
-    .then(data => {
-        items = data.map(item => {
-        getElementById("crafting").src = src
-        })
-    })
+    
 }
+
+getJSON('items.json', function (json) {
+    var array = [];
+    for (var key in json) {
+        if (json.hasOwnProperty(key)) {
+            var item = json[key];
+            array.push({
+                pic: item.pic
+            });            
+        }
+    }
+    console.log(array)
+    });
