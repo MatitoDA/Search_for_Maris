@@ -70,11 +70,13 @@ fetch("items.json") /* import items.json */
     const header = card.querySelector("[data-header]") /* setzte inhlat für classen */
     const body = card.querySelector("[data-body]")
     const mod = card.querySelector("[data-mod]")
-    const img = card.querySelector("[data-src]"); 
+    const img = card.querySelector("[data-src]")
+    const hyperlink = card.querySelector("[data-link]") 
     header.textContent = item.name
     body.textContent = item.ename
     mod.textContent = item.mod
-    img.src = item.pic;
+    img.src = item.pic
+    hyperlink.href = item.pic
     itemCardContainer.append(card)
     return{ name: item.name, ename: item.ename, mod: item.mod, element: card } /* get inhlat der erstellten Divs */
     })

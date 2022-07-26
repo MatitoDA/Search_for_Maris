@@ -621,398 +621,397 @@
 
 
 
-
     {
         "id": 501,
         "name": "Akazien Zaun",
         "ename": "Acacia Fence",
-        "pic": "HPU-DAEdititon/Akazien Zaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Akazien Zaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 502,
         "name": "Aurorenhut",
         "ename": "Auror Hat",
-        "pic": "HPU-DAEdititon/Aurorenhut.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Aurorenhut.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 503,
         "name": "Aurorenrobe",
         "ename": "AurorChest",
-        "pic": "HPU-DAEdititon/Aurorenrobe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Aurorenrobe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 504,
         "name": "Aurorenbeinschutz",
         "ename": "AurorLegs",
-        "pic": "HPU-DAEdititon/Aurorenbeinschutz.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Aurorenbeinschutz.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 505,
         "name": "Aurorenstiefel",
         "ename": "AurorShoes",
-        "pic": "HPU-DAEdititon/Aurorenstiefel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Aurorenstiefel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 506,
         "name": "Basalt",
         "ename": "Basalt",
-        "pic": "HPU-DAEdititon/Basalt.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Basalt.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 507,
         "name": "Besen",
         "ename": "Broom",
-        "pic": "HPU-DAEdititon/Besen.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Besen.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 508,
         "name": "Bimsstein Zaun",
         "ename": "Pumice Fence",
-        "pic": "HPU-DAEdititon/Bimsstein Zaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimsstein Zaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 509,
         "name": "Bimssteinstufe",
         "ename": "Pumice Slab",
-        "pic": "HPU-DAEdititon/Bimssteinstufe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimssteinstufe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 510,
         "name": "Bimssteintreppe",
         "ename": "Pumice Stair",
-        "pic": "HPU-DAEdititon/Bimssteintreppe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimssteintreppe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 511,
         "name": "Bimssteinziegel Zaun",
         "ename": "Pumice Brick Fence",
-        "pic": "HPU-DAEdititon/Bimssteinziegel Zaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimssteinziegel Zaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 512,
         "name": "Aurorenstiefel",
         "ename": "AurorShoes",
-        "pic": "HPU-DAEdititon/Aurorenstiefel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Aurorenstiefel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 513,
         "name": "Bimssteinziegelstufe",
         "ename": "Pumicebrick Slab",
-        "pic": "HPU-DAEdititon/Bimssteinziegelstufe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimssteinziegelstufe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 514,
         "name": "Bimssteinziegeltreppe",
         "ename": "Pumicebrick Stair",
-        "pic": "HPU-DAEdititon/Bimssteinziegeltreppe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Bimssteinziegeltreppe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 515,
         "name": "Birken Zaun",
         "ename": "Birch Fence",
-        "pic": "HPU-DAEdititon/Birken Zaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Birken Zaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 516,
         "name": "Black Slickstone",
         "ename": "Black Slickstone",
-        "pic": "HPU-DAEdititon/Black Slickstone.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Black Slickstone.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 517,
         "name": "Denkarium",
         "ename": "Pensieve",
-        "pic": "HPU-DAEdititon/Denkarium.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Denkarium.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 518,
         "name": "Felsenkeksblock",
         "ename": "Rock Cake Block",
-        "pic": "HPU-DAEdititon/Felsenkeksblock.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Felsenkeksblock.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 519,
         "name": "Fichten Zaun",
         "ename": "Spruce Fence",
-        "pic": "HPU-DAEdititon/Fichten Zaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Fichten Zaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 520,
         "name": "Fliegender Schlüssel (blau)",
         "ename": "Flying Key (blue)",
-        "pic": "HPU-DAEdititon/Fliegender Schlüssel (blau).png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Fliegender Schlüssel (blau).png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 521,
         "name": "Fliegender Schlüssel",
         "ename": "Flying Key",
-        "pic": "HPU-DAEdititon/Fliegender Schlüssel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Fliegender Schlüssel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 522,
         "name": "Ford Anglia",
         "ename": "Ford Anglia",
-        "pic": "HPU-DAEdititon/Ford Anglia.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Ford Anglia.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 523,
         "name": "Goldener Schnatz",
         "ename": "The Golden Snitch",
-        "pic": "HPU-DAEdititon/Goldener Schnatz.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Goldener Schnatz.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 524,
         "name": "Green Slickstone",
         "ename": "Green Slickstone",
-        "pic": "HPU-DAEdititon/Green Slickstone.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Green Slickstone.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 525,
         "name": "Karte des Rumtreibers",
         "ename": "The Marauder's Map",
-        "pic": "HPU-DAEdititon/Karte des Rumtreibers.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Karte des Rumtreibers.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 526,
         "name": "Klatscher",
         "ename": "Bludger",
-        "pic": "HPU-DAEdititon/Klatscher.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Klatscher.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 527,
         "name": "Kristallkugel",
         "ename": "Crystal Ball",
-        "pic": "HPU-DAEdititon/Kristallkugel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Kristallkugel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 528,
         "name": "Magischer Powerpulver Block",
         "ename": "Magic Power Powder Block",
-        "pic": "HPU-DAEdititon/Magischer Powerpulver Block.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Magischer Powerpulver Block.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 529,
         "name": "Magisches Powerpulver",
         "ename": "Magic Power Powder",
-        "pic": "HPU-DAEdititon/Magisches Powerpulver.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Magisches Powerpulver.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 530,
         "name": "Monsterbuch der Monster",
         "ename": "The Monster Book of Monsters",
-        "pic": "HPU-DAEdititon/Monsterbuch der Monster.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Monsterbuch der Monster.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 531,
         "name": "Motorrad mit Beiwagen",
         "ename": "Motorcycle with Sidecar",
-        "pic": "HPU-DAEdititon/Motorrad mit Beiwagen.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Motorrad mit Beiwagen.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 532,
         "name": "Motorrad",
         "ename": "Motorcycle",
-        "pic": "HPU-DAEdititon/Motorrad.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Motorrad.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 533,
         "name": "Perlenhandtäschchen",
         "ename": "Beaded Handbag",
-        "pic": "HPU-DAEdititon/Perlenhandtäschchen.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Perlenhandtäschchen.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 534,
         "name": "Quaffel",
         "ename": "Quaffle",
-        "pic": "HPU-DAEdititon/Quaffel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Quaffel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 535,
         "name": "Schlagstock",
         "ename": "Beater's Bag",
-        "pic": "HPU-DAEdititon/Schlagstock.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schlagstock.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 537,
         "name": "Schwarze Bimssteinsäule",
         "ename": "Smooth Pumice Marble",
-        "pic": "HPU-DAEdititon/Schwarze Bimssteinsäule.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarze Bimssteinsäule.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 538,
         "name": "Schwarze Bimssteinstufe",
         "ename": "Black Pumice Slab",
-        "pic": "HPU-DAEdititon/Schwarze Bimssteinstufe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarze Bimssteinstufe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 539,
         "name": "Schwarze Bimssteintreppe",
         "ename": "Black Pumice Stair",
-        "pic": "HPU-DAEdititon/Schwarze Bimssteintreppe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarze Bimssteintreppe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 540,
         "name": "Schwarze Bimssteinziegelstufe",
         "ename": "Black Pumicebrick Stair",
-        "pic": "HPU-DAEdititon/Schwarze Bimssteinziegelstufe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarze Bimssteinziegelstufe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 541,
         "name": "Schwarzer Bimssteinzaun",
         "ename": "Black Pumice Fence",
-        "pic": "HPU-DAEdititon/Schwarzer Bimssteinzaun.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarzer Bimssteinzaun.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 542,
         "name": "Schwarzer Bimssteinziegel",
         "ename": "Black Pumice Brick",
-        "pic": "HPU-DAEdititon/Schwarzer Bimssteinziegel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Schwarzer Bimssteinziegel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 543,
         "name": "Spiegel Nerhegeb",
         "ename": "The Mirror of Erised",
-        "pic": "HPU-DAEdititon/Spiegel Nerhegeb.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Spiegel Nerhegeb.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 544,
         "name": "Spiegelscherbe",
         "ename": "Two-Wayed Mirror Shard",
-        "pic": "HPU-DAEdititon/Spiegelscherbe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Spiegelscherbe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 545,
         "name": "Sprechender Hut",
         "ename": "The Sorting Hat",
-        "pic": "HPU-DAEdititon/Sprechender Hut.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Sprechender Hut.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 546,
         "name": "Steinsoldatenblock",
         "ename": "Stone Soldier Block",
-        "pic": "HPU-DAEdititon/Steinsoldatenblock.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Steinsoldatenblock.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 547,
         "name": "Sternenstein",
         "ename": "Starstone",
-        "pic": "HPU-DAEdititon/Sternenstein.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Sternenstein.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 548,
         "name": "Todesserbeinschutz",
         "ename": "Death Eater Leggings",
-        "pic": "HPU-DAEdititon/Todesserbeinschutz.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Todesserbeinschutz.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 549,
         "name": "Todesserhut",
         "ename": "Death Eater Hat",
-        "pic": "HPU-DAEdititon/Todesserhut.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Todesserhut.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 550,
         "name": "Todesserrobe",
         "ename": "Death Eater Robe",
-        "pic": "HPU-DAEdititon/Todesserrobe.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Todesserrobe.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 551,
         "name": "Todesserstiefel",
         "ename": "Death Eater Shoes",
-        "pic": "HPU-DAEdititon/Todesserstiefel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Todesserstiefel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 552,
         "name": "Trimagischer Pokal",
         "ename": "The Triwizard Cup",
-        "pic": "HPU-DAEdititon/Trimagischer Pokal.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Trimagischer Pokal.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 553,
         "name": "Verschwindekabinett",
         "ename": "Vanishing Cabinet",
-        "pic": "HPU-DAEdititon/Verschwindekabinett.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Verschwindekabinett.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 554,
         "name": "Weiße Bimssteinsäule",
         "ename": "Pumice Pillar",
-        "pic": "HPU-DAEdititon/Weiße Bimssteinsäule.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Weiße Bimssteinsäule.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 555,
         "name": "Weißer Bimssteinziegel",
         "ename": "Pumice Brick",
-        "pic": "HPU-DAEdititon/Weißer Bimssteinziegel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Weißer Bimssteinziegel.png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 556,
         "name": "Zeitumkehrer",
         "ename": "Time Turner",
-        "pic": "HPU-DAEdititon/Zeitumkehrer (Singleplayer ONLY).png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Zeitumkehrer (Singleplayer ONLY).png",
+        "mod": "HPU-DAEdition"
     },
     {
         "id": 557,
         "name": "Ziegel",
         "ename": "Brick",
-        "pic": "HPU-DAEdititon/Ziegel.png",
-        "mod": "HPU-DAEdititon"
+        "pic": "HPU-DAEdition/Ziegel.png",
+        "mod": "HPU-DAEdition"
     },
 
 
