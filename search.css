@@ -30,6 +30,14 @@ input {
     color: white;
 }
 
+.card > .mod {/* Mod des Items*/
+    font-size: .8rem;
+}
+
+.card > .img {/* Rezept Bild*/
+    font-size: .8rem;
+}
+
 
 
 .hide { 
