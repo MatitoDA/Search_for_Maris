@@ -484,7 +484,7 @@
         "id": 130,
         "name": "Wasserstein",
         "ename": "Waterstone",
-        "pic": "Chisel/Wasserstein",
+        "pic": "Chisel/Wasserstein.png",
         "mod": "Chisel"
     },
     {
@@ -865,13 +865,6 @@
         "name": "Schlagstock",
         "ename": "Beater's Bag",
         "pic": "HPU-DAEdititon/Schlagstock.png",
-        "mod": "HPU-DAEdititon"
-    },
-    {
-        "id": 536,
-        "name": "deu",
-        "ename": "eng",
-        "pic": "HPU-DAEdititon/deu.png",
         "mod": "HPU-DAEdititon"
     },
     {
