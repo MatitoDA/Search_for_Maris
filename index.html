@@ -4,41 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="search.css"> <!-- Stylesheet Searchengine -->
-    <link rel="stylesheet" type="text/css" href="node_modules/lightbox2/src/css/lightbox.css">
-    <script type="text/javascript" src="search.js" defer></script> <!-- Searchengine Code -->
-    <script rel"stylesheet" type="text/javascript" href="node_modules/lightbox2/dist/js/lightbox-plus-jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="search.css"> <!-- Stylesheet SearchEngine -->
+<!--   <link rel="stylesheet" type="text/css" href="node_modules/lightbox2/src/css/lightbox.css"> TODO Is this needed?-->
+    <script type="text/javascript" src="search.js" defer></script> <!-- SearchEngine Code -->
+<!--    <script rel=stylesheet" type="text/javascript" href="node_modules/lightbox2/dist/js/lightbox-plus-jquery.js"></script> TODO Is this needed?-->
     <title>Testfile</title>
 </head>
 <body>
     
-    <div class="search-wrapper"><!-- Suchleiste -->
+    <div class="search-wrapper"><!-- Searchbar -->
         <label for="search">Crafting Suchen</label>
         <input type="search" id="search" placeholder="Suche" data-search>
     </div>
     
     <div><!-- Filter Dropdown -->
-        <select onchange="update()" id="filter">
+        <label for="filter"></label><select id="filter" onchange="update()"> <!-- //(Floh) added <label> so IntelliJ doesn't annoy me -->
             <option value="all">Alle Mods</option>
-            <option value="bp">Backpack</option>
-            <option value="ch">Chisel</option>
-            <option value="cnpc">CustomNPC</option>
-            <option value="dc">Decocraft</option>
-            <option value="fc">Floocraft</option>
-            <option value="hpu">HPU-DAEdition</option>
-            <option value="mc">MineChess</option>
-            <option value="pm">PlantMegaMod</option>
         </select>
     </div>
     
 
-    <div class="item-cards" data-item-container></div><!-- in diesem Div befinden sich alle Karten mit den Mods aus der items.json -->
-    <template data-item-template ><!-- template muss nich vormatiert werden -->
-            <div class="card"><!-- box mit Item infos -->
+    <div class="item-cards" data-item-container></div><!-- in this Div are all Cards from the items.json -->
+    <template data-item-template ><!-- Template doesn't need formatting -->
+            <div class="card"><!-- Box with Item infos -->
                 <div class="header" data-header></div> <!-- Item Title -->
-                <div class="body" data-body></div> <!-- Englischer Name -->
-                <div class="mod" data-mod></div> <!-- zu welcher Mod das Item gehört -->
-                <div class="img"><a data-link><img data-src width="50" height="50"></a></div> <!-- Retzept bild -->
+                <div class="body" data-body></div> <!-- English Name -->
+                <div class="mod" data-mod></div> <!-- A placeholder for the mod name. -->
+                <div class="img"><a data-link><img data-src width="50" height="50" alt="" src=""></a></div> <!-- Recipe Image --> <!-- //(Floh) Added missing Attributes (alt, src) so IntelliJ shuts up -->
             </div>
     </template>
 </body>
