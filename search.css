@@ -1,22 +1,21 @@
-/* TODO PLS Change Doc to Eng. thx*/
 .search-wrapper {
-    display: flex; /* kannst du ändern aber so lassen ist schöner */
-    flex-direction: column;  /* kannst du ändern aber so lassen ist schöner */
-    gap: .28rem; /* zwischen raum "Crafting suche" und Suche input */
+    display: flex; /* can be change but is nice */
+    flex-direction: column;  /* can be change but is nice */
+    gap: .28rem; /* gap between "Crafting Suche" and search input */
 }
 
 input {
-    font-size: 1rem; /* größe Suchleiste input */
+    font-size: 1rem; /* size from input field */
 }
 
 .item-cards {
-    display: grid; /* so lassen */
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* so lassen */
-    gap: .25rem; /* zwischen raum zwischen den Karten */
-    margin-top: 1rem; /* abstand zur Suchleiste/Dropdown */
+    display: grid; /* pls leave like this */
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* pls leave like this */
+    gap: .25rem; /* gap between the cards */
+    margin-top: 1rem; /* gap between Searchbar/Dropdown */
 }
 
-.card { /* Formatierung der Karten */
+.card { /* card formatting */
     border: 1px solid black;
     background-color: gray;
     padding: .5rem;
@@ -26,25 +25,25 @@ input {
     margin-bottom: .25rem; 
 }
 
-.card > .body {/* Mod item englischer Name */
+.card > .body {/* Mod item english Name */
     font-size: .8rem;
     color: white;
 }
 
-.card > .mod {/* Mod des Items*/
+.card > .mod {/* Mod from Items*/
     font-size: .8rem;
 }
 
-.card > .img {/* Rezept Bild*/
+.card > .img {/* crafting image*/
     font-size: .8rem;
 }
 
 
 
 .hide { 
-    display: none; /* so lassen */
+    display: none; /* pls leave like this */
 }
 
 .hidemod {
-    display: none; /* so lassen */
+    display: none; /* pls leave like this */
 }
