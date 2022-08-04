@@ -73,7 +73,7 @@ fetch("mods.json")
     .then(res => res.json())
     .then(data => {
         data.forEach(mods => {
-            document.getElementById("filter").append(new Option(mods.modName, mods.optionValue)) //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
+            document.getElementById("filter").append(new Option(mods.modName, mods.optionValue)) 
         })
     })
 
@@ -82,13 +82,12 @@ fetch("items.json")
     .then(res => res.json()) /* import items.json */
     .then(data => {
         items = data.map(item => {
-            //TODO Maybe change back to itemCardTemplate.content.cloneNode(true).children[0] if VSC has a Problem with this
             const card = itemCardTemplate.content.cloneNode(true)["children"][0]
             card.querySelector("[data-header]").textContent = item.name
             card.querySelector("[data-body]").textContent = item.ename
             card.querySelector("[data-mod]").textContent = item.mod
-            card.querySelector("[data-src]").src = item.pic //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
-            card.querySelector("[data-link]").href = item.pic //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
+            card.querySelector("[data-src]").src = item.pic 
+            card.querySelector("[data-link]").href = item.pic 
             itemCardContainer.append(card)
             return{name : item.name, ename: item.ename, mod: item.mod, element: card} /* Returning the content of the created divs. */
         })
