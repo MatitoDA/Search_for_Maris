@@ -26,22 +26,26 @@ const searchInput = document.querySelector("[data-search]")
 
 let items = []
 
-
-searchInput.addEventListener("input", e => { 
-    const value = e.target.value.toLowerCase() /* Suchleiste input */
+/** Listening to the input in the searchbar, and then it is looping through all items and checking if the input is included
+ in the name, ename or mod of the item. If it is, the item is visible, if not, it is hidden. */
+searchInput.addEventListener("input", e => {
+    const value = e.target.value.toLowerCase()
     items.forEach(item => {
-        const isVisible = 
-        item.name.toLowerCase().includes(value) || 
-        item.ename.toLowerCase().includes(value) || 
-        item.mod.toLowerCase().includes(value) 
-        item.element.classList.toggle("hide", !isVisible) /* setze Classe "hide" für alle die nicht mit dem Input matchen */
+        const isVisible =
+            item.name.toLowerCase().includes(value) ||
+            item.ename.toLowerCase().includes(value) ||
+            item.mod.toLowerCase().includes(value)
+        item.element.classList.toggle("hide", !isVisible) /* Toggling the class "hide" for all items that are not matching the input. */
     })
 })
 
-/* filer */
-function update() { 
-    var select = document.getElementById('filter');
-    var option = select.options[select.selectedIndex];
+/**
+ * It takes the value of the selected option in the dropdown menu and uses it to filter the list of projects
+ */
+function update() {
+    const select = document.getElementById('filter');
+    const option = select.options[select.selectedIndex];
+    console.log(select.options)
     if (option.value === "all") {
         const text = ""
         search(text);
@@ -49,35 +53,43 @@ function update() {
         const text = option.text.toLowerCase()
         search(text);
     }
-
 }
 
-function search(value) {
+/**
+ * The function takes a value as an argument and loops through all items. It then checks if the value is included in the
+ * name, ename or mod of the item. If it is, the item is visible, if not, it is hidden
+ */
+const search = value => {
     items.forEach(item => {
-        const isVisible = item.name.toLowerCase().includes(value) || /* check welche items zu der ausgewählten Mod gehören */
-        item.ename.toLowerCase().includes(value) || 
-        item.mod.toLowerCase().includes(value)
-        item.element.classList.toggle("hidemod", !isVisible) /* setze Classe "hide" für alle die nicht mit der mod matchen */
+        const isVisible = item.name.toLowerCase().includes(value) ||
+            item.ename.toLowerCase().includes(value) ||
+            item.mod.toLowerCase().includes(value)
+        item.element.classList.toggle("hidemod", !isVisible) /* Toggling the class "hidemod" for all items that are not matching the input. */
     });
-}
+};
 
-
-fetch("items.json") /* import items.json */
-.then(res => res.json())
-.then(data => {
-    items = data.map(item => {
-    const card = itemCardTemplate.content.cloneNode(true).children[0]
-    const header = card.querySelector("[data-header]") /* setzte inhlat für classen */
-    const body = card.querySelector("[data-body]")
-    const mod = card.querySelector("[data-mod]")
-    const img = card.querySelector("[data-src]")
-    const hyperlink = card.querySelector("[data-link]") 
-    header.textContent = item.name
-    body.textContent = item.ename
-    mod.textContent = item.mod
-    img.src = item.pic
-    hyperlink.href = item.pic
-    itemCardContainer.append(card)
-    return{ name: item.name, ename: item.ename, mod: item.mod, element: card } /* get inhlat der erstellten Divs */
+/** Fetching the mods.json file, and then it is creating a new option for each mod in the json file. */
+fetch("mods.json")
+    .then(res => res.json())
+    .then(data => {
+        data.forEach(mods => {
+            document.getElementById("filter").append(new Option(mods.modName, mods.optionValue)) //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
+        })
     })
-})
+
+/** Fetching the items.json file, and then it is creating a card for each item in the json file. */
+fetch("items.json")
+    .then(res => res.json()) /* import items.json */
+    .then(data => {
+        items = data.map(item => {
+            //TODO Maybe change back to itemCardTemplate.content.cloneNode(true).children[0] if VSC has a Problem with this
+            const card = itemCardTemplate.content.cloneNode(true)["children"][0]
+            card.querySelector("[data-header]").textContent = item.name
+            card.querySelector("[data-body]").textContent = item.ename
+            card.querySelector("[data-mod]").textContent = item.mod
+            card.querySelector("[data-src]").src = item.pic //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
+            card.querySelector("[data-link]").href = item.pic //(Floh) IntelliJ is sad because of unresolved Variable, but it works...
+            itemCardContainer.append(card)
+            return{name : item.name, ename: item.ename, mod: item.mod, element: card} /* Returning the content of the created divs. */
+        })
+    })
