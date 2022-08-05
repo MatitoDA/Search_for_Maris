@@ -1,1106 +1,1102 @@
-[
-    {
-        "id": 1,
-        "name": "Blauer Rucksack",
-        "ename": "Blue Backpack",
-        "pic": "Backpack/Blauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 2,
-        "name": "Brauner Rucksack",
-        "ename": "Brown Backpack",
-        "pic": "Backpack/Brauner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 3,
-        "name": "Cyan Rucksack",
-        "ename": "Cyan Backpack",
-        "pic": "Backpack/Cyan Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 4,
-        "name": "Ender Rucksack",
-        "ename": "Ender Backpack",
-        "pic": "Backpack/Ender Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 5,
-        "name": "Gebundenes Leder",
-        "ename": "Bound Leather",
-        "pic": "Backpack/Gebundenes Leder.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 6,
-        "name": "Gegerbtes Leder",
-        "ename": "Tanned Leather",
-        "pic": "Backpack/Gegerbtes Leder.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 7,
-        "name": "Gelber Rucksack",
-        "ename": "Yellow Backpack",
-        "pic": "Backpack/Gelber Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 8,
-        "name": "Grauer Rucksack",
-        "ename": "Grey Backpack",
-        "pic": "Backpack/Grauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 9,
-        "name": "Großer blauer Rucksack",
-        "ename": "Big Blue Backpack",
-        "pic": "Backpack/Großer blauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 10,
-        "name": "Großer brauner Rucksack",
-        "ename": "Big Brown Backpack",
-        "pic": "Backpack/Großer brauner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 11,
-        "name": "Großer cyan Rucksack",
-        "ename": "Big Cyan Backpack",
-        "pic": "Backpack/Großer cyan Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 12,
-        "name": "Großer gelber Rucksack",
-        "ename": "Big Yellow Backpack",
-        "pic": "Backpack/Großer gelber Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 13,
-        "name": "Großer grauer Rucksack",
-        "ename": "Big Grey Backpack",
-        "pic": "Backpack/Großer grauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 14,
-        "name": "Großer grüner Rucksack",
-        "ename": "Big Green Backpack",
-        "pic": "Backpack/Großer grüner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 15,
-        "name": "Großer hell blauer Rucksack",
-        "ename": "Big Light Blue Backpack",
-        "pic": "Backpack/Großer hell blauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 16,
-        "name": "Großer hell grauer Rucksack",
-        "ename": "Big Light Grey Backpack",
-        "pic": "Backpack/Großer hell grauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 17,
-        "name": "Großer hell grüner Rucksack",
-        "ename": "Big Light Green Backpack",
-        "pic": "Backpack/Großer hell grüner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 18,
-        "name": "Großer Lila Rucksack",
-        "ename": "Big Purple Backpack",
-        "pic": "Backpack/Großer cyan Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 19,
-        "name": "Großer Magenta Rucksack",
-        "ename": "Big Magenta Backpack",
-        "pic": "Backpack/Großer magenta Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 20,
-        "name": "Großer Orangener Rucksack",
-        "ename": "Big Orange Backpack",
-        "pic": "Backpack/Großer cyan Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 21,
-        "name": "Großer Pinker Rucksack",
-        "ename": "Big Pink Backpack",
-        "pic": "Backpack/Großer pinker  Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 22,
-        "name": "Großer Roter Rucksack",
-        "ename": "Big Red Backpack",
-        "pic": "Backpack/Großer roter Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 23,
-        "name": "Großer Rucksack",
-        "ename": "Big Orange Backpack",
-        "pic": "Backpack/Großer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 24,
-        "name": "Großer Schwarzer Rucksack",
-        "ename": "Big Black Backpack",
-        "pic": "Backpack/Großer schwarzer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 25,
-        "name": "Großer Weißer Rucksack",
-        "ename": "Big White Backpack",
-        "pic": "Backpack/Großer weißer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 26,
-        "name": "Großer Werkbank Rucksack",
-        "ename": "Big Workbench Backpack",
-        "pic": "Backpack/Großer cyan Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 27,
-        "name": "Grüner Rucksack",
-        "ename": "Green Backpack",
-        "pic": "Backpack/Grüner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 28,
-        "name": "Hell blauer Rucksack",
-        "ename": "Green Backpack",
-        "pic": "Backpack/Hell blauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 29,
-        "name": "Hell grauer Rucksack",
-        "ename": "Light Gray Backpack",
-        "pic": "Backpack/Hell grauer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 30,
-        "name": "Hell grüner Rucksack",
-        "ename": "Green Backpack",
-        "pic": "Backpack/Hell grüner Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 31,
-        "name": "Lila Rucksack",
-        "ename": "Purple Backpack",
-        "pic": "Backpack/Lila Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 32,
-        "name": "Magenta Rucksack",
-        "ename": "Magenta Backpack",
-        "pic": "Backpack/Magenta Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 33,
-        "name": "Orangener Rucksack",
-        "ename": "Orange Backpack",
-        "pic": "Backpack/Orangener Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 34,
-        "name": "Pinker Rucksack",
-        "ename": "Purple Backpack",
-        "pic": "Backpack/Lila Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 35,
-        "name": "Roter Rucksack",
-        "ename": "Red Backpack",
-        "pic": "Backpack/Roter Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 36,
-        "name": "Rucksack",
-        "ename": "Backpack",
-        "pic": "Backpack/Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 37,
-        "name": "Schwarzer Rucksack",
-        "ename": "Black Backpack",
-        "pic": "Backpack/Schwarzer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 38,
-        "name": "Weißer Rucksack",
-        "ename": "White Backpack",
-        "pic": "Backpack/Weißer Rucksack.png",
-        "mod": "Backpack"
-    },
-    {
-        "id": 39,
-        "name": "Werkbank Rucksack",
-        "ename": "Workbench Backpack",
-        "pic": "Backpack/Werkbank Rucksack.png",
-        "mod": "Backpack"
-    },
-
-
-
-
-
-    {
-        "id": 101,
-        "name": "Automatisierungs-Upgrade.name",
-        "ename": "Automation Upgrade.name",
-        "pic": "Chisel/Automatisierungs-Upgrade.name.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 102,
-        "name": "Blaue lehmige Wolle",
-        "ename": "Blue Woolen Clay",
-        "pic": "Chisel/Blaue lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 103,
-        "name": "Braune lehmige Wolle",
-        "ename": "Brown Woolen Clay",
-        "pic": "Chisel/Braune lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 104,
-        "name": "Diamantmeißel",
-        "ename": "Diamond Chisel",
-        "pic": "Chisel/Diamantmeißel.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 105,
-        "name": "Energetisierte Leerensteinsäule",
-        "ename": "Energised Voidstone Pillar",
-        "pic": "Chisel/Energetisierte Leerensteinsäule.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 106,
-        "name": "Energetisierter Leerenstein",
-        "ename": "Energised Voidstone",
-        "pic": "Chisel/Energetisierter Leerenstein.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 107,
-        "name": "Gelbe lehmige Wolle",
-        "ename": "Yellow Woolen Clay",
-        "pic": "Chisel/Gelbe lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 108,
-        "name": "Geschwindigkeits-Upgrade.name",
-        "ename": "Speed Upgrage.name",
-        "pic": "Chisel/Geschwindigkeits-Upgrade.name.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 109,
-        "name": "Graue lehmige Wolle",
-        "ename": "Grey Woolen Clay",
-        "pic": "Chisel/Graue lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 110,
-        "name": "Grüne lehmige Wolle",
-        "ename": "Green Woolen Clay",
-        "pic": "Chisel/Grüne lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 111,
-        "name": "Hellblaue lehmige Wolle",
-        "ename": "Light Blue Woolen Clay",
-        "pic": "Chisel/Hellblaue lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 112,
-        "name": "Hellgraue lehmige Wolle",
-        "ename": "Light Grey Woolen Clay",
-        "pic": "Chisel/Hellgraue lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 113,
-        "name": "Hellgrüne lehmige Wolle",
-        "ename": "Light Green Woolen Clay",
-        "pic": "Chisel/Hellgrüne lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 114,
-        "name": "Lavastein",
-        "ename": "Lavastone",
-        "pic": "Chisel/Lavastein.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 115,
-        "name": "Leerenstein",
-        "ename": "Voidstone",
-        "pic": "Chisel/Leerenstein.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 116,
-        "name": "Lila lehmige Wolle",
-        "ename": "Purple Woolen Clay",
-        "pic": "Chisel/Lila lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 117,
-        "name": "Automatisierungs-Upgrade.name",
-        "ename": "Automation Upgrade.name",
-        "pic": "Chisel/Automatisierungs-Upgrade.name.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 118,
-        "name": "Meißel",
-        "ename": "Chisel",
-        "pic": "Chisel/Meißel.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 119,
-        "name": "Obsidianmeißel",
-        "ename": "Obsidian Chisel",
-        "pic": "Chisel/Obsidianmeißel.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 120,
-        "name": "Orange lehmige Wolle",
-        "ename": "Orange Woolen Clay",
-        "pic": "Chisel/Orange lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 121,
-        "name": "Rosa lehmige Wolle",
-        "ename": "Pink Woolen Clay",
-        "pic": "Chisel/Rosa lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 122,
-        "name": "Rote lehmige Wolle",
-        "ename": "Red Woolen Clay",
-        "pic": "Chisel/Rote lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 123,
-        "name": "Schwarze lehmige Wolle",
-        "ename": "Black Woolen Clay",
-        "pic": "Chisel/Schwarze lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 124,
-        "name": "Stapel-Upgrade.name",
-        "ename": "Stack Upgrage.name",
-        "pic": "Chisel/Stapel-Upgrade.name.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 125,
-        "name": "Straßenlinie",
-        "ename": "Road Lines",
-        "pic": "Chisel/Straßenlinie.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 126,
-        "name": "Tempelblock",
-        "ename": "Temple Block",
-        "pic": "Chisel/Tempelblock.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 127,
-        "name": "Türkise lehmige Wolle",
-        "ename": "Cyan Woolen Clay",
-        "pic": "Chisel/Türkise lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 128,
-        "name": "Tyrian",
-        "ename": "Tyrian",
-        "pic": "Chisel/Tyrian.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 129,
-        "name": "Violette lehmige Wolle",
-        "ename": "Violet Woolen Clay",
-        "pic": "Chisel/Violette lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 130,
-        "name": "Wasserstein",
-        "ename": "Waterstone",
-        "pic": "Chisel/Wasserstein.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 131,
-        "name": "Weiße Lehmige Wolle",
-        "ename": "White Woolen Clay",
-        "pic": "Chisel/Weiße Lehmige Wolle.png",
-        "mod": "Chisel"
-    },
-    {
-        "id": 132,
-        "name": "Zukunftsblock.name",
-        "ename": "Futura Block",
-        "pic": "Chisel/Zukunftsblock.png",
-        "mod": "Chisel"
-    },
-
-
-
-
-
-
-    {
-        "id": 201,
-        "name": "NPC Zauberstab",
-        "ename": "NPC Wand",
-        "pic": "CustomNPC/NPC Zauberstab (Singleplayer ONLY).png",
-        "mod": "CustomNPC"
-    },
-    {
-        "id": 202,
-        "name": "Werkbank",
-        "ename": "Workbench",
-        "pic": "CustomNPC/Werkbank.png",
-        "mod": "CustomNPC"
-    },
-
-
-
-
-
-
-    {
-        "id": 301,
-        "name": "Blauer Crafting Lehm",
-        "ename": "Blue Crafting Clay",
-        "pic": "Decocraft/Blauer Crafting Lehm.png",
-        "mod": "Decocraft"
-    },
-    {
-        "id": 302,
-        "name": "DecoBank",
-        "ename": "DecoBench",
-        "pic": "Decocraft/DecoBank.png",
-        "mod": "Decocraft"
-    },
-    {
-        "id": 303,
-        "name": "Decowand",
-        "ename": "Decowand",
-        "pic": "Decocraft/Decowand.png",
-        "mod": "Decocraft"
-    },
-    {
-        "id": 304,
-        "name": "Grüner Crafting Lehm",
-        "ename": "Green Crafting Clay",
-        "pic": "Decocraft/Grüner Crafting Lehm.png",
-        "mod": "Decocraft"
-    },
-    {
-        "id": 305,
-        "name": "Roter Crafting Lehm",
-        "ename": "Red Crafting Clay",
-        "pic": "Decocraft/Roter Crafting Lehm.png",
-        "mod": "Decocraft"
-    },
-
-
-
-
-
-    {
-        "id": 401,
-        "name": "Floo Powder (1tp)",
-        "ename": "Floo Powder (1tp)",
-        "pic": "Floocraft/Floo Powder (1tp).png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 402,
-        "name": "Floo Powder (2tp)",
-        "ename": "Floo Powder (2tp)",
-        "pic": "Floocraft/Floo Powder (2tp).png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 403,
-        "name": "Floo Powder (4tp)",
-        "ename": "Floo Powder (4tp)",
-        "pic": "Floocraft/Floo Powder (4tp).png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 404,
-        "name": "Floo Powder (8tp)",
-        "ename": "Floo Powder (8tp)",
-        "pic": "Floocraft/Floo Powder (8tp).png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 405,
-        "name": "Floo Sign",
-        "ename": "Floo Sign",
-        "pic": "Floocraft/Floo Sign.png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 406,
-        "name": "Floo Torch",
-        "ename": "Floo Torch",
-        "pic": "Floocraft/Floo Torch.png",
-        "mod": "Floocraft"
-    },
-    {
-        "id": 407,
-        "name": "Floower Pot",
-        "ename": "Floower Pot",
-        "pic": "Floocraft/Floower Pot.png",
-        "mod": "Floocraft"
-    },
-
-
-
-
-
-    {
-        "id": 501,
-        "name": "Akazien Zaun",
-        "ename": "Acacia Fence",
-        "pic": "HPU-DAEdition/Akazien Zaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 502,
-        "name": "Aurorenhut",
-        "ename": "Auror Hat",
-        "pic": "HPU-DAEdition/Aurorenhut.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 503,
-        "name": "Aurorenrobe",
-        "ename": "AurorChest",
-        "pic": "HPU-DAEdition/Aurorenrobe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 504,
-        "name": "Aurorenbeinschutz",
-        "ename": "AurorLegs",
-        "pic": "HPU-DAEdition/Aurorenbeinschutz.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 505,
-        "name": "Aurorenstiefel",
-        "ename": "AurorShoes",
-        "pic": "HPU-DAEdition/Aurorenstiefel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 506,
-        "name": "Basalt",
-        "ename": "Basalt",
-        "pic": "HPU-DAEdition/Basalt.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 507,
-        "name": "Besen",
-        "ename": "Broom",
-        "pic": "HPU-DAEdition/Besen.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 508,
-        "name": "Bimsstein Zaun",
-        "ename": "Pumice Fence",
-        "pic": "HPU-DAEdition/Bimsstein Zaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 509,
-        "name": "Bimssteinstufe",
-        "ename": "Pumice Slab",
-        "pic": "HPU-DAEdition/Bimssteinstufe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 510,
-        "name": "Bimssteintreppe",
-        "ename": "Pumice Stair",
-        "pic": "HPU-DAEdition/Bimssteintreppe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 511,
-        "name": "Bimssteinziegel Zaun",
-        "ename": "Pumice Brick Fence",
-        "pic": "HPU-DAEdition/Bimssteinziegel Zaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 512,
-        "name": "Aurorenstiefel",
-        "ename": "AurorShoes",
-        "pic": "HPU-DAEdition/Aurorenstiefel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 513,
-        "name": "Bimssteinziegelstufe",
-        "ename": "Pumicebrick Slab",
-        "pic": "HPU-DAEdition/Bimssteinziegelstufe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 514,
-        "name": "Bimssteinziegeltreppe",
-        "ename": "Pumicebrick Stair",
-        "pic": "HPU-DAEdition/Bimssteinziegeltreppe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 515,
-        "name": "Birken Zaun",
-        "ename": "Birch Fence",
-        "pic": "HPU-DAEdition/Birken Zaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 516,
-        "name": "Black Slickstone",
-        "ename": "Black Slickstone",
-        "pic": "HPU-DAEdition/Black Slickstone.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 517,
-        "name": "Denkarium",
-        "ename": "Pensieve",
-        "pic": "HPU-DAEdition/Denkarium.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 518,
-        "name": "Felsenkeksblock",
-        "ename": "Rock Cake Block",
-        "pic": "HPU-DAEdition/Felsenkeksblock.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 519,
-        "name": "Fichten Zaun",
-        "ename": "Spruce Fence",
-        "pic": "HPU-DAEdition/Fichten Zaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 520,
-        "name": "Fliegender Schlüssel (blau)",
-        "ename": "Flying Key (blue)",
-        "pic": "HPU-DAEdition/Fliegender Schlüssel (blau).png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 521,
-        "name": "Fliegender Schlüssel",
-        "ename": "Flying Key",
-        "pic": "HPU-DAEdition/Fliegender Schlüssel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 522,
-        "name": "Ford Anglia",
-        "ename": "Ford Anglia",
-        "pic": "HPU-DAEdition/Ford Anglia.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 523,
-        "name": "Goldener Schnatz",
-        "ename": "The Golden Snitch",
-        "pic": "HPU-DAEdition/Goldener Schnatz.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 524,
-        "name": "Green Slickstone",
-        "ename": "Green Slickstone",
-        "pic": "HPU-DAEdition/Green Slickstone.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 525,
-        "name": "Karte des Rumtreibers",
-        "ename": "The Marauder's Map",
-        "pic": "HPU-DAEdition/Karte des Rumtreibers.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 526,
-        "name": "Klatscher",
-        "ename": "Bludger",
-        "pic": "HPU-DAEdition/Klatscher.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 527,
-        "name": "Kristallkugel",
-        "ename": "Crystal Ball",
-        "pic": "HPU-DAEdition/Kristallkugel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 528,
-        "name": "Magischer Powerpulver Block",
-        "ename": "Magic Power Powder Block",
-        "pic": "HPU-DAEdition/Magischer Powerpulver Block.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 529,
-        "name": "Magisches Powerpulver",
-        "ename": "Magic Power Powder",
-        "pic": "HPU-DAEdition/Magisches Powerpulver.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 530,
-        "name": "Monsterbuch der Monster",
-        "ename": "The Monster Book of Monsters",
-        "pic": "HPU-DAEdition/Monsterbuch der Monster.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 531,
-        "name": "Motorrad mit Beiwagen",
-        "ename": "Motorcycle with Sidecar",
-        "pic": "HPU-DAEdition/Motorrad mit Beiwagen.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 532,
-        "name": "Motorrad",
-        "ename": "Motorcycle",
-        "pic": "HPU-DAEdition/Motorrad.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 533,
-        "name": "Perlenhandtäschchen",
-        "ename": "Beaded Handbag",
-        "pic": "HPU-DAEdition/Perlenhandtäschchen.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 534,
-        "name": "Quaffel",
-        "ename": "Quaffle",
-        "pic": "HPU-DAEdition/Quaffel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 535,
-        "name": "Schlagstock",
-        "ename": "Beater's Bag",
-        "pic": "HPU-DAEdition/Schlagstock.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 537,
-        "name": "Schwarze Bimssteinsäule",
-        "ename": "Smooth Pumice Marble",
-        "pic": "HPU-DAEdition/Schwarze Bimssteinsäule.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 538,
-        "name": "Schwarze Bimssteinstufe",
-        "ename": "Black Pumice Slab",
-        "pic": "HPU-DAEdition/Schwarze Bimssteinstufe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 539,
-        "name": "Schwarze Bimssteintreppe",
-        "ename": "Black Pumice Stair",
-        "pic": "HPU-DAEdition/Schwarze Bimssteintreppe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 540,
-        "name": "Schwarze Bimssteinziegelstufe",
-        "ename": "Black Pumicebrick Stair",
-        "pic": "HPU-DAEdition/Schwarze Bimssteinziegelstufe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 541,
-        "name": "Schwarzer Bimssteinzaun",
-        "ename": "Black Pumice Fence",
-        "pic": "HPU-DAEdition/Schwarzer Bimssteinzaun.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 542,
-        "name": "Schwarzer Bimssteinziegel",
-        "ename": "Black Pumice Brick",
-        "pic": "HPU-DAEdition/Schwarzer Bimssteinziegel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 543,
-        "name": "Spiegel Nerhegeb",
-        "ename": "The Mirror of Erised",
-        "pic": "HPU-DAEdition/Spiegel Nerhegeb.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 544,
-        "name": "Spiegelscherbe",
-        "ename": "Two-Wayed Mirror Shard",
-        "pic": "HPU-DAEdition/Spiegelscherbe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 545,
-        "name": "Sprechender Hut",
-        "ename": "The Sorting Hat",
-        "pic": "HPU-DAEdition/Sprechender Hut.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 546,
-        "name": "Steinsoldatenblock",
-        "ename": "Stone Soldier Block",
-        "pic": "HPU-DAEdition/Steinsoldatenblock.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 547,
-        "name": "Sternenstein",
-        "ename": "Starstone",
-        "pic": "HPU-DAEdition/Sternenstein.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 548,
-        "name": "Todesserbeinschutz",
-        "ename": "Death Eater Leggings",
-        "pic": "HPU-DAEdition/Todesserbeinschutz.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 549,
-        "name": "Todesserhut",
-        "ename": "Death Eater Hat",
-        "pic": "HPU-DAEdition/Todesserhut.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 550,
-        "name": "Todesserrobe",
-        "ename": "Death Eater Robe",
-        "pic": "HPU-DAEdition/Todesserrobe.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 551,
-        "name": "Todesserstiefel",
-        "ename": "Death Eater Shoes",
-        "pic": "HPU-DAEdition/Todesserstiefel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 552,
-        "name": "Trimagischer Pokal",
-        "ename": "The Triwizard Cup",
-        "pic": "HPU-DAEdition/Trimagischer Pokal.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 553,
-        "name": "Verschwindekabinett",
-        "ename": "Vanishing Cabinet",
-        "pic": "HPU-DAEdition/Verschwindekabinett.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 554,
-        "name": "Weiße Bimssteinsäule",
-        "ename": "Pumice Pillar",
-        "pic": "HPU-DAEdition/Weiße Bimssteinsäule.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 555,
-        "name": "Weißer Bimssteinziegel",
-        "ename": "Pumice Brick",
-        "pic": "HPU-DAEdition/Weißer Bimssteinziegel.png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 556,
-        "name": "Zeitumkehrer",
-        "ename": "Time Turner",
-        "pic": "HPU-DAEdition/Zeitumkehrer (Singleplayer ONLY).png",
-        "mod": "HPU-DAEdition"
-    },
-    {
-        "id": 557,
-        "name": "Ziegel",
-        "ename": "Brick",
-        "pic": "HPU-DAEdition/Ziegel.png",
-        "mod": "HPU-DAEdition"
-    },
-
-
-
-
-
-
-    {
-        "id": 601,
-        "name": "Black Piece Mover",
-        "ename": "Black Piece Mover",
-        "pic": "MineChess/Black Piece Mover.png",
-        "mod": "MineChess"
-    },
-    {
-        "id": 602,
-        "name": "Chessboard Column",
-        "ename": "Chessboard Column",
-        "pic": "MineChess/Chessboard Column.png",
-        "mod": "MineChess"
-    },
-    {
-        "id": 603,
-        "name": "Chessboard Generator",
-        "ename": "Chessboard Generator",
-        "pic": "MineChess/Chessboard Generator.png",
-        "mod": "MineChess"
-    },
-    {
-        "id": 604,
-        "name": "White Piece Mover",
-        "ename": "White Piece Mover",
-        "pic": "MineChess/White Piece Mover.png",
-        "mod": "MineChess"
-    },
-
-
-
-
-
-
-
-    {
-        "id": 701,
-        "name": "Beliebige Bambusleiter",
-        "ename": "Bamboo Ladder",
-        "pic": "PlantMegaMod/Beliebige Bambusleiter.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 702,
-        "name": "Beliebige Bambusstufe",
-        "ename": "Bamboo Slab",
-        "pic": "PlantMegaMod/Beliebige Bambusstufe.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 703,
-        "name": "Beliebige Bambustür",
-        "ename": "Bamboo Door",
-        "pic": "PlantMegaMod/Beliebige Bambustür.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 704,
-        "name": "Beliebiger Bambusblock",
-        "ename": "Bamboo Block",
-        "pic": "PlantMegaMod/Beliebiger Bambusblock.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 705,
-        "name": "Beliebiger Bambuspfahl",
-        "ename": "Bamboo Pole",
-        "pic": "PlantMegaMod/Beliebiger Bambuspfahl.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 706,
-        "name": "Beliebiger Bambuszaun",
-        "ename": "Bamboo Fence",
-        "pic": "PlantMegaMod/Beliebiger Bambuszaun.png",
-        "mod": "PlantMegaMod"
-    },
-    {
-        "id": 707,
-        "name": "Beliebiges Bambuszauntor",
-        "ename": "Bamboo Fence Gate",
-        "pic": "PlantMegaMod/Beliebiges Bambuszauntor.png",
-        "mod": "PlantMegaMod"
-    }
-]
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Blauer Rucksack",
+            "ename": "Blue Backpack",
+            "pic": "Backpack/Blauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 2,
+            "name": "Brauner Rucksack",
+            "ename": "Brown Backpack",
+            "pic": "Backpack/Brauner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 3,
+            "name": "Cyan Rucksack",
+            "ename": "Cyan Backpack",
+            "pic": "Backpack/Cyan Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 4,
+            "name": "Ender Rucksack",
+            "ename": "Ender Backpack",
+            "pic": "Backpack/Ender Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 5,
+            "name": "Gebundenes Leder",
+            "ename": "Bound Leather",
+            "pic": "Backpack/Gebundenes Leder.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 6,
+            "name": "Gegerbtes Leder",
+            "ename": "Tanned Leather",
+            "pic": "Backpack/Gegerbtes Leder.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 7,
+            "name": "Gelber Rucksack",
+            "ename": "Yellow Backpack",
+            "pic": "Backpack/Gelber Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 8,
+            "name": "Grauer Rucksack",
+            "ename": "Grey Backpack",
+            "pic": "Backpack/Grauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 9,
+            "name": "Großer blauer Rucksack",
+            "ename": "Big Blue Backpack",
+            "pic": "Backpack/Großer blauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 10,
+            "name": "Großer brauner Rucksack",
+            "ename": "Big Brown Backpack",
+            "pic": "Backpack/Großer brauner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 11,
+            "name": "Großer cyan Rucksack",
+            "ename": "Big Cyan Backpack",
+            "pic": "Backpack/Großer cyan Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 12,
+            "name": "Großer gelber Rucksack",
+            "ename": "Big Yellow Backpack",
+            "pic": "Backpack/Großer gelber Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 13,
+            "name": "Großer grauer Rucksack",
+            "ename": "Big Grey Backpack",
+            "pic": "Backpack/Großer grauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 14,
+            "name": "Großer grüner Rucksack",
+            "ename": "Big Green Backpack",
+            "pic": "Backpack/Großer grüner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 15,
+            "name": "Großer hell blauer Rucksack",
+            "ename": "Big Light Blue Backpack",
+            "pic": "Backpack/Großer hell blauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 16,
+            "name": "Großer hell grauer Rucksack",
+            "ename": "Big Light Grey Backpack",
+            "pic": "Backpack/Großer hell grauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 17,
+            "name": "Großer hell grüner Rucksack",
+            "ename": "Big Light Green Backpack",
+            "pic": "Backpack/Großer hell grüner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 18,
+            "name": "Großer Lila Rucksack",
+            "ename": "Big Purple Backpack",
+            "pic": "Backpack/Großer cyan Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 19,
+            "name": "Großer Magenta Rucksack",
+            "ename": "Big Magenta Backpack",
+            "pic": "Backpack/Großer magenta Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 20,
+            "name": "Großer Orangener Rucksack",
+            "ename": "Big Orange Backpack",
+            "pic": "Backpack/Großer cyan Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 21,
+            "name": "Großer Pinker Rucksack",
+            "ename": "Big Pink Backpack",
+            "pic": "Backpack/Großer pinker  Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 22,
+            "name": "Großer Roter Rucksack",
+            "ename": "Big Red Backpack",
+            "pic": "Backpack/Großer roter Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 23,
+            "name": "Großer Rucksack",
+            "ename": "Big Orange Backpack",
+            "pic": "Backpack/Großer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 24,
+            "name": "Großer Schwarzer Rucksack",
+            "ename": "Big Black Backpack",
+            "pic": "Backpack/Großer schwarzer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 25,
+            "name": "Großer Weißer Rucksack",
+            "ename": "Big White Backpack",
+            "pic": "Backpack/Großer weißer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 26,
+            "name": "Großer Werkbank Rucksack",
+            "ename": "Big Workbench Backpack",
+            "pic": "Backpack/Großer cyan Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 27,
+            "name": "Grüner Rucksack",
+            "ename": "Green Backpack",
+            "pic": "Backpack/Grüner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 28,
+            "name": "Hell blauer Rucksack",
+            "ename": "Green Backpack",
+            "pic": "Backpack/Hell blauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 29,
+            "name": "Hell grauer Rucksack",
+            "ename": "Light Gray Backpack",
+            "pic": "Backpack/Hell grauer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 30,
+            "name": "Hell grüner Rucksack",
+            "ename": "Green Backpack",
+            "pic": "Backpack/Hell grüner Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 31,
+            "name": "Lila Rucksack",
+            "ename": "Purple Backpack",
+            "pic": "Backpack/Lila Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 32,
+            "name": "Magenta Rucksack",
+            "ename": "Magenta Backpack",
+            "pic": "Backpack/Magenta Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 33,
+            "name": "Orangener Rucksack",
+            "ename": "Orange Backpack",
+            "pic": "Backpack/Orangener Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 34,
+            "name": "Pinker Rucksack",
+            "ename": "Purple Backpack",
+            "pic": "Backpack/Lila Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 35,
+            "name": "Roter Rucksack",
+            "ename": "Red Backpack",
+            "pic": "Backpack/Roter Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 36,
+            "name": "Rucksack",
+            "ename": "Backpack",
+            "pic": "Backpack/Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 37,
+            "name": "Schwarzer Rucksack",
+            "ename": "Black Backpack",
+            "pic": "Backpack/Schwarzer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 38,
+            "name": "Weißer Rucksack",
+            "ename": "White Backpack",
+            "pic": "Backpack/Weißer Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 39,
+            "name": "Werkbank Rucksack",
+            "ename": "Workbench Backpack",
+            "pic": "Backpack/Werkbank Rucksack.png",
+            "mod": "Backpack"
+        },
+        {
+            "id": 101,
+            "name": "Automatisierungs-Upgrade.name",
+            "ename": "Automation Upgrade.name",
+            "pic": "Chisel/Automatisierungs-Upgrade.name.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 102,
+            "name": "Blaue lehmige Wolle",
+            "ename": "Blue Woolen Clay",
+            "pic": "Chisel/Blaue lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 103,
+            "name": "Braune lehmige Wolle",
+            "ename": "Brown Woolen Clay",
+            "pic": "Chisel/Braune lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 104,
+            "name": "Diamantmeißel",
+            "ename": "Diamond Chisel",
+            "pic": "Chisel/Diamantmeißel.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 105,
+            "name": "Energetisierte Leerensteinsäule",
+            "ename": "Energised Voidstone Pillar",
+            "pic": "Chisel/Energetisierte Leerensteinsäule.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 106,
+            "name": "Energetisierter Leerenstein",
+            "ename": "Energised Voidstone",
+            "pic": "Chisel/Energetisierter Leerenstein.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 107,
+            "name": "Gelbe lehmige Wolle",
+            "ename": "Yellow Woolen Clay",
+            "pic": "Chisel/Gelbe lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 108,
+            "name": "Geschwindigkeits-Upgrade.name",
+            "ename": "Speed Upgrage.name",
+            "pic": "Chisel/Geschwindigkeits-Upgrade.name.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 109,
+            "name": "Graue lehmige Wolle",
+            "ename": "Grey Woolen Clay",
+            "pic": "Chisel/Graue lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 110,
+            "name": "Grüne lehmige Wolle",
+            "ename": "Green Woolen Clay",
+            "pic": "Chisel/Grüne lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 111,
+            "name": "Hellblaue lehmige Wolle",
+            "ename": "Light Blue Woolen Clay",
+            "pic": "Chisel/Hellblaue lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 112,
+            "name": "Hellgraue lehmige Wolle",
+            "ename": "Light Grey Woolen Clay",
+            "pic": "Chisel/Hellgraue lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 113,
+            "name": "Hellgrüne lehmige Wolle",
+            "ename": "Light Green Woolen Clay",
+            "pic": "Chisel/Hellgrüne lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 114,
+            "name": "Lavastein",
+            "ename": "Lavastone",
+            "pic": "Chisel/Lavastein.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 115,
+            "name": "Leerenstein",
+            "ename": "Voidstone",
+            "pic": "Chisel/Leerenstein.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 116,
+            "name": "Lila lehmige Wolle",
+            "ename": "Purple Woolen Clay",
+            "pic": "Chisel/Lila lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 117,
+            "name": "Automatisierungs-Upgrade.name",
+            "ename": "Automation Upgrade.name",
+            "pic": "Chisel/Automatisierungs-Upgrade.name.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 118,
+            "name": "Meißel",
+            "ename": "Chisel",
+            "pic": "Chisel/Meißel.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 119,
+            "name": "Obsidianmeißel",
+            "ename": "Obsidian Chisel",
+            "pic": "Chisel/Obsidianmeißel.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 120,
+            "name": "Orange lehmige Wolle",
+            "ename": "Orange Woolen Clay",
+            "pic": "Chisel/Orange lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 121,
+            "name": "Rosa lehmige Wolle",
+            "ename": "Pink Woolen Clay",
+            "pic": "Chisel/Rosa lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 122,
+            "name": "Rote lehmige Wolle",
+            "ename": "Red Woolen Clay",
+            "pic": "Chisel/Rote lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 123,
+            "name": "Schwarze lehmige Wolle",
+            "ename": "Black Woolen Clay",
+            "pic": "Chisel/Schwarze lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 124,
+            "name": "Stapel-Upgrade.name",
+            "ename": "Stack Upgrage.name",
+            "pic": "Chisel/Stapel-Upgrade.name.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 125,
+            "name": "Straßenlinie",
+            "ename": "Road Lines",
+            "pic": "Chisel/Straßenlinie.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 126,
+            "name": "Tempelblock",
+            "ename": "Temple Block",
+            "pic": "Chisel/Tempelblock.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 127,
+            "name": "Türkise lehmige Wolle",
+            "ename": "Cyan Woolen Clay",
+            "pic": "Chisel/Türkise lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 128,
+            "name": "Tyrian",
+            "ename": "Tyrian",
+            "pic": "Chisel/Tyrian.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 129,
+            "name": "Violette lehmige Wolle",
+            "ename": "Violet Woolen Clay",
+            "pic": "Chisel/Violette lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 130,
+            "name": "Wasserstein",
+            "ename": "Waterstone",
+            "pic": "Chisel/Wasserstein.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 131,
+            "name": "Weiße Lehmige Wolle",
+            "ename": "White Woolen Clay",
+            "pic": "Chisel/Weiße Lehmige Wolle.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 132,
+            "name": "Zukunftsblock.name",
+            "ename": "Futura Block",
+            "pic": "Chisel/Zukunftsblock.png",
+            "mod": "Chisel"
+        },
+        {
+            "id": 201,
+            "name": "NPC Zauberstab",
+            "ename": "NPC Wand",
+            "pic": "CustomNPC/NPC Zauberstab (Singleplayer ONLY).png",
+            "mod": "CustomNPC"
+        },
+        {
+            "id": 202,
+            "name": "Werkbank",
+            "ename": "Workbench",
+            "pic": "CustomNPC/Werkbank.png",
+            "mod": "CustomNPC"
+        },
+        {
+            "id": 301,
+            "name": "Blauer Crafting Lehm",
+            "ename": "Blue Crafting Clay",
+            "pic": "Decocraft/Blauer Crafting Lehm.png",
+            "mod": "Decocraft"
+        },
+        {
+            "id": 302,
+            "name": "DecoBank",
+            "ename": "DecoBench",
+            "pic": "Decocraft/DecoBank.png",
+            "mod": "Decocraft"
+        },
+        {
+            "id": 303,
+            "name": "Decowand",
+            "ename": "Decowand",
+            "pic": "Decocraft/Decowand.png",
+            "mod": "Decocraft"
+        },
+        {
+            "id": 304,
+            "name": "Grüner Crafting Lehm",
+            "ename": "Green Crafting Clay",
+            "pic": "Decocraft/Grüner Crafting Lehm.png",
+            "mod": "Decocraft"
+        },
+        {
+            "id": 305,
+            "name": "Roter Crafting Lehm",
+            "ename": "Red Crafting Clay",
+            "pic": "Decocraft/Roter Crafting Lehm.png",
+            "mod": "Decocraft"
+        },
+        {
+            "id": 401,
+            "name": "Floo Powder (1tp)",
+            "ename": "Floo Powder (1tp)",
+            "pic": "Floocraft/Floo Powder (1tp).png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 402,
+            "name": "Floo Powder (2tp)",
+            "ename": "Floo Powder (2tp)",
+            "pic": "Floocraft/Floo Powder (2tp).png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 403,
+            "name": "Floo Powder (4tp)",
+            "ename": "Floo Powder (4tp)",
+            "pic": "Floocraft/Floo Powder (4tp).png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 404,
+            "name": "Floo Powder (8tp)",
+            "ename": "Floo Powder (8tp)",
+            "pic": "Floocraft/Floo Powder (8tp).png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 405,
+            "name": "Floo Sign",
+            "ename": "Floo Sign",
+            "pic": "Floocraft/Floo Sign.png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 406,
+            "name": "Floo Torch",
+            "ename": "Floo Torch",
+            "pic": "Floocraft/Floo Torch.png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 407,
+            "name": "Floower Pot",
+            "ename": "Floower Pot",
+            "pic": "Floocraft/Floower Pot.png",
+            "mod": "Floocraft"
+        },
+        {
+            "id": 501,
+            "name": "Akazien Zaun",
+            "ename": "Acacia Fence",
+            "pic": "HPU-DAEdition/Akazien Zaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 502,
+            "name": "Aurorenhut",
+            "ename": "Auror Hat",
+            "pic": "HPU-DAEdition/Aurorenhut.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 503,
+            "name": "Aurorenrobe",
+            "ename": "AurorChest",
+            "pic": "HPU-DAEdition/Aurorenrobe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 504,
+            "name": "Aurorenbeinschutz",
+            "ename": "AurorLegs",
+            "pic": "HPU-DAEdition/Aurorenbeinschutz.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 505,
+            "name": "Aurorenstiefel",
+            "ename": "AurorShoes",
+            "pic": "HPU-DAEdition/Aurorenstiefel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 506,
+            "name": "Basalt",
+            "ename": "Basalt",
+            "pic": "HPU-DAEdition/Basalt.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 507,
+            "name": "Besen",
+            "ename": "Broom",
+            "pic": "HPU-DAEdition/Besen.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 508,
+            "name": "Bimsstein Zaun",
+            "ename": "Pumice Fence",
+            "pic": "HPU-DAEdition/Bimsstein Zaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 509,
+            "name": "Bimssteinstufe",
+            "ename": "Pumice Slab",
+            "pic": "HPU-DAEdition/Bimssteinstufe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 510,
+            "name": "Bimssteintreppe",
+            "ename": "Pumice Stair",
+            "pic": "HPU-DAEdition/Bimssteintreppe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 511,
+            "name": "Bimssteinziegel Zaun",
+            "ename": "Pumice Brick Fence",
+            "pic": "HPU-DAEdition/Bimssteinziegel Zaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 512,
+            "name": "Aurorenstiefel",
+            "ename": "AurorShoes",
+            "pic": "HPU-DAEdition/Aurorenstiefel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 513,
+            "name": "Bimssteinziegelstufe",
+            "ename": "Pumicebrick Slab",
+            "pic": "HPU-DAEdition/Bimssteinziegelstufe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 514,
+            "name": "Bimssteinziegeltreppe",
+            "ename": "Pumicebrick Stair",
+            "pic": "HPU-DAEdition/Bimssteinziegeltreppe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 515,
+            "name": "Birken Zaun",
+            "ename": "Birch Fence",
+            "pic": "HPU-DAEdition/Birken Zaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 516,
+            "name": "Black Slickstone",
+            "ename": "Black Slickstone",
+            "pic": "HPU-DAEdition/Black Slickstone.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 517,
+            "name": "Denkarium",
+            "ename": "Pensieve",
+            "pic": "HPU-DAEdition/Denkarium.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 518,
+            "name": "Felsenkeksblock",
+            "ename": "Rock Cake Block",
+            "pic": "HPU-DAEdition/Felsenkeksblock.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 519,
+            "name": "Fichten Zaun",
+            "ename": "Spruce Fence",
+            "pic": "HPU-DAEdition/Fichten Zaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 520,
+            "name": "Fliegender Schlüssel (blau)",
+            "ename": "Flying Key (blue)",
+            "pic": "HPU-DAEdition/Fliegender Schlüssel (blau).png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 521,
+            "name": "Fliegender Schlüssel",
+            "ename": "Flying Key",
+            "pic": "HPU-DAEdition/Fliegender Schlüssel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 522,
+            "name": "Ford Anglia",
+            "ename": "Ford Anglia",
+            "pic": "HPU-DAEdition/Ford Anglia.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 523,
+            "name": "Goldener Schnatz",
+            "ename": "The Golden Snitch",
+            "pic": "HPU-DAEdition/Goldener Schnatz.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 524,
+            "name": "Green Slickstone",
+            "ename": "Green Slickstone",
+            "pic": "HPU-DAEdition/Green Slickstone.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 525,
+            "name": "Karte des Rumtreibers",
+            "ename": "The Marauder's Map",
+            "pic": "HPU-DAEdition/Karte des Rumtreibers.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 526,
+            "name": "Klatscher",
+            "ename": "Bludger",
+            "pic": "HPU-DAEdition/Klatscher.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 527,
+            "name": "Kristallkugel",
+            "ename": "Crystal Ball",
+            "pic": "HPU-DAEdition/Kristallkugel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 528,
+            "name": "Magischer Powerpulver Block",
+            "ename": "Magic Power Powder Block",
+            "pic": "HPU-DAEdition/Magischer Powerpulver Block.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 529,
+            "name": "Magisches Powerpulver",
+            "ename": "Magic Power Powder",
+            "pic": "HPU-DAEdition/Magisches Powerpulver.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 530,
+            "name": "Monsterbuch der Monster",
+            "ename": "The Monster Book of Monsters",
+            "pic": "HPU-DAEdition/Monsterbuch der Monster.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 531,
+            "name": "Motorrad mit Beiwagen",
+            "ename": "Motorcycle with Sidecar",
+            "pic": "HPU-DAEdition/Motorrad mit Beiwagen.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 532,
+            "name": "Motorrad",
+            "ename": "Motorcycle",
+            "pic": "HPU-DAEdition/Motorrad.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 533,
+            "name": "Perlenhandtäschchen",
+            "ename": "Beaded Handbag",
+            "pic": "HPU-DAEdition/Perlenhandtäschchen.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 534,
+            "name": "Quaffel",
+            "ename": "Quaffle",
+            "pic": "HPU-DAEdition/Quaffel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 535,
+            "name": "Schlagstock",
+            "ename": "Beater's Bag",
+            "pic": "HPU-DAEdition/Schlagstock.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 537,
+            "name": "Schwarze Bimssteinsäule",
+            "ename": "Smooth Pumice Marble",
+            "pic": "HPU-DAEdition/Schwarze Bimssteinsäule.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 538,
+            "name": "Schwarze Bimssteinstufe",
+            "ename": "Black Pumice Slab",
+            "pic": "HPU-DAEdition/Schwarze Bimssteinstufe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 539,
+            "name": "Schwarze Bimssteintreppe",
+            "ename": "Black Pumice Stair",
+            "pic": "HPU-DAEdition/Schwarze Bimssteintreppe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 540,
+            "name": "Schwarze Bimssteinziegelstufe",
+            "ename": "Black Pumicebrick Stair",
+            "pic": "HPU-DAEdition/Schwarze Bimssteinziegelstufe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 541,
+            "name": "Schwarzer Bimssteinzaun",
+            "ename": "Black Pumice Fence",
+            "pic": "HPU-DAEdition/Schwarzer Bimssteinzaun.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 542,
+            "name": "Schwarzer Bimssteinziegel",
+            "ename": "Black Pumice Brick",
+            "pic": "HPU-DAEdition/Schwarzer Bimssteinziegel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 543,
+            "name": "Spiegel Nerhegeb",
+            "ename": "The Mirror of Erised",
+            "pic": "HPU-DAEdition/Spiegel Nerhegeb.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 544,
+            "name": "Spiegelscherbe",
+            "ename": "Two-Wayed Mirror Shard",
+            "pic": "HPU-DAEdition/Spiegelscherbe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 545,
+            "name": "Sprechender Hut",
+            "ename": "The Sorting Hat",
+            "pic": "HPU-DAEdition/Sprechender Hut.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 546,
+            "name": "Steinsoldatenblock",
+            "ename": "Stone Soldier Block",
+            "pic": "HPU-DAEdition/Steinsoldatenblock.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 547,
+            "name": "Sternenstein",
+            "ename": "Starstone",
+            "pic": "HPU-DAEdition/Sternenstein.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 548,
+            "name": "Todesserbeinschutz",
+            "ename": "Death Eater Leggings",
+            "pic": "HPU-DAEdition/Todesserbeinschutz.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 549,
+            "name": "Todesserhut",
+            "ename": "Death Eater Hat",
+            "pic": "HPU-DAEdition/Todesserhut.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 550,
+            "name": "Todesserrobe",
+            "ename": "Death Eater Robe",
+            "pic": "HPU-DAEdition/Todesserrobe.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 551,
+            "name": "Todesserstiefel",
+            "ename": "Death Eater Shoes",
+            "pic": "HPU-DAEdition/Todesserstiefel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 552,
+            "name": "Trimagischer Pokal",
+            "ename": "The Triwizard Cup",
+            "pic": "HPU-DAEdition/Trimagischer Pokal.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 553,
+            "name": "Verschwindekabinett",
+            "ename": "Vanishing Cabinet",
+            "pic": "HPU-DAEdition/Verschwindekabinett.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 554,
+            "name": "Weiße Bimssteinsäule",
+            "ename": "Pumice Pillar",
+            "pic": "HPU-DAEdition/Weiße Bimssteinsäule.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 555,
+            "name": "Weißer Bimssteinziegel",
+            "ename": "Pumice Brick",
+            "pic": "HPU-DAEdition/Weißer Bimssteinziegel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 556,
+            "name": "Zeitumkehrer",
+            "ename": "Time Turner",
+            "pic": "HPU-DAEdition/Zeitumkehrer (Singleplayer ONLY).png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 557,
+            "name": "Ziegel",
+            "ename": "Brick",
+            "pic": "HPU-DAEdition/Ziegel.png",
+            "mod": "HPU-DAEdition"
+        },
+        {
+            "id": 601,
+            "name": "Black Piece Mover",
+            "ename": "Black Piece Mover",
+            "pic": "MineChess/Black Piece Mover.png",
+            "mod": "MineChess"
+        },
+        {
+            "id": 602,
+            "name": "Chessboard Column",
+            "ename": "Chessboard Column",
+            "pic": "MineChess/Chessboard Column.png",
+            "mod": "MineChess"
+        },
+        {
+            "id": 603,
+            "name": "Chessboard Generator",
+            "ename": "Chessboard Generator",
+            "pic": "MineChess/Chessboard Generator.png",
+            "mod": "MineChess"
+        },
+        {
+            "id": 604,
+            "name": "White Piece Mover",
+            "ename": "White Piece Mover",
+            "pic": "MineChess/White Piece Mover.png",
+            "mod": "MineChess"
+        },
+        {
+            "id": 701,
+            "name": "Beliebige Bambusleiter",
+            "ename": "Bamboo Ladder",
+            "pic": "PlantMegaMod/Beliebige Bambusleiter.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 702,
+            "name": "Beliebige Bambusstufe",
+            "ename": "Bamboo Slab",
+            "pic": "PlantMegaMod/Beliebige Bambusstufe.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 703,
+            "name": "Beliebige Bambustür",
+            "ename": "Bamboo Door",
+            "pic": "PlantMegaMod/Beliebige Bambustür.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 704,
+            "name": "Beliebiger Bambusblock",
+            "ename": "Bamboo Block",
+            "pic": "PlantMegaMod/Beliebiger Bambusblock.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 705,
+            "name": "Beliebiger Bambuspfahl",
+            "ename": "Bamboo Pole",
+            "pic": "PlantMegaMod/Beliebiger Bambuspfahl.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 706,
+            "name": "Beliebiger Bambuszaun",
+            "ename": "Bamboo Fence",
+            "pic": "PlantMegaMod/Beliebiger Bambuszaun.png",
+            "mod": "PlantMegaMod"
+        },
+        {
+            "id": 707,
+            "name": "Beliebiges Bambuszauntor",
+            "ename": "Bamboo Fence Gate",
+            "pic": "PlantMegaMod/Beliebiges Bambuszauntor.png",
+            "mod": "PlantMegaMod"
+        }
+    ],
+    "mods": [
+        {
+            "modName": "Backpack",
+            "optionValue": "bp"
+        },
+        {
+            "modName": "Chisel",
+            "optionValue": "ch"
+        },
+        {
+            "modName": "CustomNPC",
+            "optionValue": "cnpc"
+        },
+        {
+            "modName": "Decocraft",
+            "optionValue": "dc"
+        },
+        {
+            "modName": "Floocraft",
+            "optionValue": "fc"
+        },
+        {
+            "modName": "HPU-DAEdition",
+            "optionValue": "hpu"
+        },
+        {
+            "modName": "MineChess",
+            "optionValue": "mc"
+        },
+        {
+            "modName": "PlantMegaMod",
+            "optionValue": "pm"
+        }
+    ]
+}

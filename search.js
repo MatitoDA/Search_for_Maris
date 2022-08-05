@@ -45,7 +45,6 @@ searchInput.addEventListener("input", e => {
 function update() {
     const select = document.getElementById('filter');
     const option = select.options[select.selectedIndex];
-    console.log(select.options)
     if (option.value === "all") {
         const text = ""
         search(text);
@@ -68,27 +67,23 @@ const search = value => {
     });
 };
 
-/** Fetching the mods.json file, and then it is creating a new option for each mod in the json file. */
-fetch("mods.json")
-    .then(res => res.json())
-    .then(data => {
-        data.forEach(mods => {
-            document.getElementById("filter").append(new Option(mods.modName, mods.optionValue)) 
-        })
-    })
 
-/** Fetching the items.json file, and then it is creating a card for each item in the json file. */
+/** Fetching the items.json file, and then it is creating a card for each item an createing a new option for each mod in the json file. */
 fetch("items.json")
     .then(res => res.json()) /* import items.json */
     .then(data => {
-        items = data.map(item => {
+        items = data.items.map(json => {
             const card = itemCardTemplate.content.cloneNode(true)["children"][0]
-            card.querySelector("[data-header]").textContent = item.name
-            card.querySelector("[data-body]").textContent = item.ename
-            card.querySelector("[data-mod]").textContent = item.mod
-            card.querySelector("[data-src]").src = item.pic 
-            card.querySelector("[data-link]").href = item.pic 
+            card.querySelector("[data-header]").textContent = json.name
+            card.querySelector("[data-body]").textContent = json.ename
+            card.querySelector("[data-mod]").textContent = json.mod
+            card.querySelector("[data-src]").src = json.pic 
+            card.querySelector("[data-link]").href = json.pic 
             itemCardContainer.append(card)
-            return{name : item.name, ename: item.ename, mod: item.mod, element: card} /* Returning the content of the created divs. */
+            return{name : json.name, ename: json.ename, mod: json.mod, element: card}/* Returning the content of the created divs. */
+    
+        })
+        data.mods.forEach(mod => {
+            document.getElementById("filter").append(new Option(mod.modName, mod.optionValue))
         })
     })
