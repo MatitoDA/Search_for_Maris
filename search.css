@@ -15,26 +15,49 @@ input {
     margin-top: 1rem; /* gap between Searchbar/Dropdown */
 }
 
-.card { /* card formatting */
-    border: 1px solid black;
+
+
+.innerCard { /* card formatting */
     background-color: gray;
     padding: .5rem;
+    height: 8rem;
 }
 
-.card > .header {/* Mod item name */
+/* link formatting */
+a {
+    color: black;
+}
+
+/* remove default link formatting */
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+.innerCard > .header {/* Mod item name */
     margin-bottom: .25rem; 
 }
 
-.card > .body {/* Mod item english Name */
-    font-size: .8rem;
-    color: white;
-}
-
-.card > .mod {/* Mod from Items*/
+.innerCard > .body {/* Mod item english Name */
     font-size: .8rem;
 }
 
-.card > .img {/* crafting image*/
+.innerCard > .mod {/* Mod from Items*/
+    font-size: .8rem;
+}
+
+.innerCard > .img {/* crafting image*/
     font-size: .8rem;
 }
 

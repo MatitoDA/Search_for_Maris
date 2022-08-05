@@ -9,7 +9,6 @@
     <title>Testfile</title>
 </head>
 <body>
-    
     <div class="search-wrapper"><!-- Searchbar -->
         <label for="search">Crafting Suchen</label>
         <input type="search" id="search" placeholder="Suche" data-search>
@@ -21,14 +20,18 @@
         </select>
     </div>
     
-
+    
     <div class="item-cards" data-item-container></div><!-- in this Div are all Cards from the items.json -->
     <template data-item-template ><!-- Template doesn't need formatting -->
-            <div class="card"><!-- Box with Item infos -->
-                <div class="header" data-header></div> <!-- Item Title -->
-                <div class="body" data-body></div> <!-- English Name -->
-                <div class="mod" data-mod></div> <!-- A placeholder for the mod name. -->
-                <div class="img"><a data-link><img data-src width="50" height="50" alt="" src=""></a></div> <!-- Recipe Image -->
+            <div class="card">
+                <a data-link>
+                    <div class="innerCard"><!-- Box with Item infos -->
+                        <div class="header" data-header></div> <!-- Item Title -->
+                        <div class="body" data-body></div> <!-- English Name -->
+                        <div class="mod" data-mod></div> <!-- A placeholder for the mod name. -->
+                        <div class="img"><img data-src width="50" height="50" alt="" src=""></div> <!-- Recipe Image -->
+                    </div>
+                </a>
             </div>
     </template>
 </body>
